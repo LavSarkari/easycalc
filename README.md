@@ -1,7 +1,11 @@
 # EasyCalc
 
+```sh
 EasyCalc is a simple Python script that provides various mathematical tricks and calculations. The script includes functions to square numbers ending with '5', multiply adjacent numbers, multiply numbers with last digits summing to 10, multiply the next number, and multiply numbers with nines.
-<br> Tho being honest its pretty tough to code these logic but its really helpfull solving maths in real life lol, so just so i wont forget these trick i thought lets just do somthing of them :) 
+```
+<br> Tho being honest its pretty tough to code these logic but its really helpfull solving maths in real life lol, so just so i wont forget these trick i thought lets just do somthing of them :)
+<br> 
+<br>The main purpose is to understand how actually numbers works through codes we can just write `print(123*999)` and we will get answers in a sec but can we even come near it solving that qucikly? no! ryt? soo if you understand the logics of this code you'll be able to do it quickly, oh yes ofc theres tons of short on yt yapping abt the same trick but i made the code anyway xd 
 
 ## Features
 
