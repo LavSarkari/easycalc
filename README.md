@@ -19,7 +19,7 @@ EasyCalc is a simple Python script that provides various mathematical tricks and
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/easycalc.git
+    git clone https://github.com/lavsarkari/easycalc.git
     cd easycalc
     ```
 
@@ -66,7 +66,7 @@ EasyCalc is a simple Python script that provides various mathematical tricks and
   - Print the result.
 
 ### 5. Multiply with nines
-- **Function:** `multipline()](http://_vscodecontentref_/4`
+- **Function:** `multipline()`
 - **Logic:**
   - Convert the first number to a list of digits.
   - Subtract each digit from 9 and store the result in a list.
